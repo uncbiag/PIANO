@@ -1,4 +1,8 @@
-# This repository contains the code and experiments for our papers:
+# PIANO: Perfusion Imaging via Advection-Diffusion
+
+Please refer to the newest version at https://github.com/uncbiag/D2-SONATA.
+
+This repository contains the code and experiments for our papers:
 
 [Perfusion Imaging: An Advection Diffusion Approach](https://arxiv.org/abs/2009.02796) - IEEE TMI (In Minor Revision)
 
@@ -16,6 +20,7 @@
     }
     
     @InProceedings{liu2020piano,
-    title="{PIANO}: Perfusion Imaging via Advection-Diffusion",
-    author={Peirong Liu and Yueh Z. Lee and Stephen R. Aylward and Marc Niethammer}, 
-    booktitle={Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+      title="{PIANO}: Perfusion Imaging via Advection-Diffusion",
+      author={Peirong Liu and Yueh Z. Lee and Stephen R. Aylward and Marc Niethammer}, 
+      booktitle={Medical Image Computing and Computer Assisted Intervention (MICCAI)},
+    }
